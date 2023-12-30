@@ -2,24 +2,26 @@
 
 ## Jared
 
-| Years       | Condition | Make       | Year | Model & Trim                    | Body                        | Color (Exterior/Interior) | Engine                          | Power            | Torque              | Transmission   |                  Cost | Notes                                 |
-| ----------- | --------- | ---------- | ---- | ------------------------------- | --------------------------- | ------------------------- | ------------------------------- | ---------------- | ------------------- | -------------- | --------------------: | ------------------------------------- |
-| 1996 - 1999 | used      | Chevrolet  | 1984 | [Camaro Berlinetta][1984camaro] | 2-door convertible (t-tops) | black + gold trim/tan     | 5.0L V8 [Chevrolet L69][L69]    |                  |                     | 4-speed auto   |                  $400 | L69 from a Z28 engine swap            |
-| 1999 - 1999 | used      | Oldsmobile | 1986 | [Cutlass Ciera][1986cutlass]    | 2-door coupe                | maroon/maroon             | 2.8L V6 [Buick LE2][LE2]        | 112 hp (84 kW)   | 145 lb⋅ft (197 N⋅m) | 4-speed auto   |                  $200 | lemon; owned for 5 weeks              |
-| 1999 - 2000 | used      | Oldsmobile | 1987 | [Delta 88][1987delta]           | 4-door sedan                | silver/grey-blue          | 3.8L V6 [Buick LN3][LN3]        | 165 hp (123 kW)  | 220 lb⋅ft (298 N⋅m) | 4-speed auto   |                 $3000 | reposessed                            |
-| 2000 - 2003 | used      | Madza      | 1992 | [Protogé DX][1992protoge]       | 4-door                      | white/blue                | 1.8L I4 [Mazda B8][B8]          | 103 hp (77 kW)   | 111 lb⋅ft (151 N⋅m) | 5-speed manual |                 $5000 | Bought @ 88k miles; sold @ 220k miles |
-| 2005        | new       | Citroën    | 2005 | [C3][2005c3]                    | 5-door hatchback            | grey-blue/grey            | 1.1L I4 [PSA TU1][TU1]          | 59 hp (44 kW)    | 69 lb⋅ft (94 N⋅m)   | 5-speed manual | ~HUF3200000 (~$17500) | Bought in Budapest                    |
-| 2006 - 2019 | new       | Scion      | 2006 | [xA][2006xa]                    | 5-door hatchback            | white/dark grey           | 1.5L I4 [Toyota 1NZ-FE][1NZ-FE] | 109.5 hp (82 kW) | 104 lb⋅ft (141 N⋅m) | 5-speed manual |                $17001 | Bought @ 3 mi; sold @ 272k mi         |
+| Owned          | Year | Make       | Model<br>& Trim                 | Body                              | Color                        | Engine                                                     | Trans             | Cond | Cost                     | Notes                             |
+| -------------- | ---- | ---------- | ------------------------------- | --------------------------------- | ---------------------------- | ---------------------------------------------------------- | ----------------- | ---- | ------------------------ | --------------------------------- |
+| 1996 -<br>1999 | 1984 | Chevrolet  | [Camaro Berlinetta][1984camaro] | 2-door<br>convertible<br>(t-tops) | ext: black/gold<br>int: tan  | [Chevrolet L69][L69]<br>5.0L V8<br>190 hp<br>325 N⋅m       | 4-speed<br>auto   | used | $400                     | Z28 engine &<br>transmission swap |
+| 1999 -<br>1999 | 1986 | Oldsmobile | [Cutlass Ciera][1986cutlass]    | 2-door<br>coupe                   | ext: maroon<br>int: maroon   | [Buick LE2][LE2]<br>2.8L V6 <br>112 hp<br>197 N⋅m          | 4-speed<br>auto   | used | $200                     | lemon<br>owned for 5 weeks        |
+| 1999 -<br>2000 | 1987 | Oldsmobile | [Delta 88][1987delta]           | 4-door<br>sedan                   | ext: silver<br>int: grey     | [Buick LN3][LN3]<br>3.8L V6 <br>165 hp<br>298 N⋅m          | 4-speed<br>auto   | used | $3000                    | &nbsp;                            |
+| 2000 -<br>2003 | 1992 | Madza      | [Protogé DX][1992protoge]       | 4-door<br>sedan                   | ext: white<br>int: blue      | [Mazda B8][B8]<br>1.8L I4 <br>103 hp<br>151 N⋅m            | 5-speed<br>manual | used | $5000                    | start: 88k mi<br>end: 220k mi     |
+| 2004 -<br>2005 | 2005 | Citroën    | [C3][2005c3]                    | 5-door<br>hatchback               | ext: silver<br>int: grey     | [PSA TU1][TU1]<br>1.1L I4 <br>59 hp<br>94 N⋅m              | 5-speed<br>manual | new  | HUF 3250000<br>(~$17500) | Marti kept it<br>unsure when sold |
+| 2006 -<br>2019 | 2006 | Scion      | [xA][2006xa]                    | 5-door<br>hatchback               | ext: white<br>int: dark grey | [Toyota 1NZ-FE][1NZ-FE]<br>1.5L I4 <br>109.5 hp<br>141 N⋅m | 5-speed<br>manual | new  | $17001                   | start: 3 mi<br>end: 272k mi       |
 
 ## Jessica
 
-| Make | Model | Year | Start | End | Notes |
-| ---- | ----- | ---- | ----- | --- | ----- |
+| Owned          | Year | Make    | Model<br>& Trim      | Body                | Color                  | Engine                                               | Trans                | Cond | Cost         | Notes                       |
+| -------------- | ---- | ------- | -------------------- | ------------------- | ---------------------- | ---------------------------------------------------- | -------------------- | ---- | ------------ | --------------------------- |
+| 2012 -<br>2016 | 2012 | Hyundai | [Accent][2012accent] | 5-door<br>hatchback | ext: blue<br>int: grey | [Hyundai GF4D][G4FD]<br>1.6L I4<br>138 hp<br>167 N⋅m | 6-speed<br>automatic | new  | `¯\_(ツ)_/¯` | engine replacement @ 98k mi |
 
 ## KTN
 
-| Make | Model | Year | Start | End | Notes |
-| ---- | ----- | ---- | ----- | --- | ----- |
+| Owned              | Year | Make    | Model<br>& Trim | Body          | Color                  | Engine                                                     | Trans                  | Cond | Cost         | Notes                       |
+| ------------------ | ---- | ------- | --------------- | ------------- | ---------------------- | ---------------------------------------------------------- | ---------------------- | ---- | ------------ | --------------------------- |
+| 2016 -<br> current | 2016 | Hyundai | Tucson 1.6t     | 5-door<br>SUV | ext: blue<br>int: grey | [Hyundai G4FJ][G4FJ]<br>1.6L I4 turbo<br>175 hp<br>264 N⋅m | 7-speed<br>dual-clutch | new  | `¯\_(ツ)_/¯` | engine replacement @ 97k mi |
 
 [1984camaro]: https://en.wikipedia.org/wiki/Chevrolet_Camaro_(third_generation)#1984
 [1986cutlass]: https://en.wikipedia.org/wiki/Oldsmobile_Cutlass_Ciera#1982%E2%80%931988
@@ -27,9 +29,12 @@
 [1992protoge]: https://en.wikipedia.org/wiki/Mazda_Familia#Sixth_generation_(BG;_1989%E2%80%931994)
 [2005c3]: https://en.wikipedia.org/wiki/Citro%C3%ABn_C3#First_generation_(FC/FN;_2002)
 [2006xa]: https://en.wikipedia.org/wiki/Scion_xA
+[2012accent]: https://en.wikipedia.org/wiki/Hyundai_Accent#Fourth_generation_(RB/RC;_2010)
 [L69]: https://en.wikipedia.org/wiki/Chevrolet_small-block_engine_(first-_and_second-generation)#L69
 [LE2]: https://en.wikipedia.org/wiki/General_Motors_60%C2%B0_V6_engine#LE2
 [LN3]: https://en.wikipedia.org/wiki/Buick_V6_engine#LN3_Naturally_Aspirated
 [B8]: https://en.wikipedia.org/wiki/Mazda_B_engine#B8
 [TU1]: https://en.wikipedia.org/wiki/PSA_TU_engine#TU1
 [1NZ-FE]: https://en.wikipedia.org/wiki/Toyota_NZ_engine#1NZ-FE
+[G4FD]: https://en.wikipedia.org/wiki/Hyundai_Gamma_engine#G4FD
+[G4FJ]: https://en.wikipedia.org/wiki/Hyundai_Gamma_engine#G4FJ
