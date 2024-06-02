@@ -1,4 +1,4 @@
-# 7 _n_ to Know Me By
+# 7 [Things] to Know Me By
 
 These lists, or variants, are popular to circulate around social media as a means to show how to relate to things that you really like and/or might define or have had an impact on your life.
 
