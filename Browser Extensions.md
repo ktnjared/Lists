@@ -180,11 +180,11 @@ These are extensions that are bundled with an app that I don't use.
 [ivory]: https://tapbots.com/ivory/
 [jxl]: https://github.com/zamfofex/jxl-crx
 [keyword-search]: http://safarikeywordsearch.aurlien.net/
-[ktn-config-bitbang]: https://github.com/ktnjared/ktn-config/blob/main/firefox/Stylus/ktn-bitbang.social.css
-[ktn-config-pihole]: https://github.com/ktnjared/ktn-config/blob/main/firefox/Stylus/ktn-pihole.css
-[ktn-config-strategywiki]: https://github.com/ktnjared/ktn-config/blob/main/firefox/Stylus/ktn-strategywiki.css
-[ktn-config-stylus]: https://github.com/ktnjared/ktn-config/tree/main/firefox/Stylus
-[ktn-config-twitch]: https://github.com/ktnjared/ktn-config/blob/main/firefox/Stylus/ktn-twitch.css
+[ktn-config-bitbang]: https://github.com/ktnjared/ktn-config/tree/main/firefox/extensions/Stylus/ktn-bitbang.social.css
+[ktn-config-pihole]: https://github.com/ktnjared/ktn-config/tree/main/firefox/extensions/Stylus/ktn-pihole.css
+[ktn-config-strategywiki]: https://github.com/ktnjared/ktn-config/tree/main/firefox/extensions/Stylus/ktn-strategywiki.css
+[ktn-config-stylus]: https://github.com/ktnjared/ktn-config/tree/main/firefox/extensions/Stylus
+[ktn-config-twitch]: https://github.com/ktnjared/ktn-config/tree/main/firefox/extensions/Stylus/ktn-twitch.css
 [masto-simplified]: https://github.com/rugk/mastodon-simplified-federation
 [merge windows]: https://github.com/jonathanKingston/merge-windows
 [microshield]: https://github.com/List-KR/microShield/
