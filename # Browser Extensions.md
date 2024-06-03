@@ -47,7 +47,7 @@
 | WebP / Avif image converter                           | [webp-image-converter][amo-webp-image-converter]       |
 | WhatCampaign                                          | [whatcampaign][amo-whatcampaign]                       |
 
-#### Stylus Scripts
+#### Userscripts
 
 - [Better Bluesky][stylus-bluesky] (Modified )
 - [microShield][microshield]
@@ -88,7 +88,7 @@ I no longer use Twitter or Reddit, but these were useful when I did.
 | [Web Inspector][web-inspector]           | [Web Inspector][aas-web-inspector]           |
 | [Wipr][wipr]                             | [Wipr][aas-wipr]                             |
 
-##### Userscripts Scripts
+##### Userscripts
 
 - [Better Bluesky][stylus-bluesky] (Modified)
 - [Bypass Paywalls Clean][bypass-paywalls]
@@ -108,6 +108,10 @@ These are extensions that are bundled with an app that I don't use.
 
 - [Firefox Focus][firefox-focus-safari], part of [Firefox Focus][firefox-focus]
 - [Open in Ivory][open-in-ivory], part of [Ivory][ivory]
+
+### macOS
+
+I no longer actively use Safari or Safari Technology Preview on the Mac. I'm 100% Firefox, Firefox Developer Edition, and Firefox Nightly on the desktop.
 
 <!-- LINK LIST -->
 
