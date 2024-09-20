@@ -22,7 +22,8 @@ List of cellular-capable devices that I have owned throughout history.
 | 2015-2017 |              2 | Apple       | iPhone 6s Plus          | Silver       |  128 GB | T-Mobile           | Dual-wield: iOS + Android lifestyle with Nexus 5   |
 | 2017-2018 |              1 | Samsung     | Galaxy Note8            | Orchid Grey  |   64 GB | T-Mobile           | Only time using an Android device full-time        |
 | 2018-2020 |              2 | Apple       | iPhone Xs Max           | Black        |  256 GB | T-Mobile           |                                                    |
-| 2020-now  |             2+ | Apple       | iPhone 12               | Blue         |  128 GB | T-Mobile           |                                                    |
+| 2020-2024 |              4 | Apple       | iPhone 12               | Blue         |  128 GB | T-Mobile           | 2024, moved to Wi-Fi only, secondary device        |
+| 2024-now  |              0 | Apple       | iPhone 16 Plus          | Teal         |  128 GB | T-Mobile           |                                                    |
 
 ### Secondary
 
