@@ -38,7 +38,7 @@
 Some notes:
 
 - This configuration is duplicated in Safari Technology Preview as well.
-- Extensions for PWAs are only available on macOS. PWAs on iOS and iPadOS lack this feature (for now?).
+- Extensions for PWAs are only available on macOS. PWAs on iOS and iPadOS lack this feature (for now?). If/Once Extensions for PWAs become a reality on iOS and iPadOS, then Profiles will move to being PWAs.
 
 The following table details which extensions are enabled for which Safari Profiles.
 
