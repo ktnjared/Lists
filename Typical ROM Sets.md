@@ -1,4 +1,4 @@
-# Emulation General ROM Set
+# Typical ROM Sets
 
 A list of my general ROMset that I keep on an SD card.
 
@@ -33,7 +33,7 @@ A list of my general ROMset that I keep on an SD card.
 
 ## NEC
 
-## PC Engine (Duo) / Turbografx-16 (CD)
+## PC Engine Duo / Turbo Duo
 
 - Air Zonk
 - Asuka 120% Maxima
@@ -55,25 +55,21 @@ A list of my general ROMset that I keep on an SD card.
 - Gyruss
 - Zelda II: The Adventure of Link
 
-### Game Boy / Game Boy Color
+### Game Cube
 
-- AM2R (Another Metroid II Remake) ([AM2RLauncher](am2rlauncher))
+- Phantasy Star Online I & II Plus (modded for Sylverant)
 
-### Game Cube (Dolphin)
-
-- Phantasy Star Online I & II Plus (modded for [Sylverant](sylverant))
-
-## Nintendo Entertainment System
+## Nintendo Entertainment System (Famicom)
 
 - Metroid
 - Zelda II: The Adventure of Link
 
 ## N64
 
-- The Legend of Zelda: Ocarina of Time ([Ship of Harkinian](z64ship))
-- The Legend of Zelda: Majora's Mask ([Zelda 64 Recompiled](z64recomp))
+- The Legend of Zelda: Ocarina of Time
+- The Legend of Zelda: Majora's Mask
 
-## Super Nintendo Entertainment System
+## Super Nintendo Entertainment System (Super Famicom)
 
 - F-Zero
 - Super Mario All-Stars + Super Mario World
@@ -81,7 +77,22 @@ A list of my general ROMset that I keep on an SD card.
 
 ## Sega
 
-### Genesis / CD / 32X
+### 32X
+
+- Doom 32X: Resurrection
+- Star Wars Arcade
+- Virtua Racing
+
+### Dreamcast
+
+- Chu-Chu Rocket
+- Crazy Taxi
+- Jet Set Radio
+- Phantasy Star Online ver.2 (modded for Sylverant)
+- Rez
+- Soul Calibur
+
+### Genesis (Mega Drive)
 
 - Columns
 - Phantasy Star II
@@ -90,20 +101,29 @@ A list of my general ROMset that I keep on an SD card.
 - Sonic the Hedgehog
 - Sonic the Hedgehog 2
 - Sonic the Hedgehog 3
-- Star Wars Arcade (32X)
-- Virtua Racing (32X)
 
-### Master System / Game Gear
+### Master System
 
 - Phantasy Star
 
 ## Sony
 
-## PlayStation
+### PlayStation
 
+- Bushido Blade
 - Intelligent Qube
 - Xenogears
+- WipEout
+- WipEout 3
 
-## PICO-8
+### PlayStation 2
 
--
+- SSX Tricky
+
+### PlayStation 3
+
+- Gran Turismo 5
+
+### Vita
+
+- WipEout 2048
