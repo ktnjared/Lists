@@ -1,4 +1,4 @@
-# Web Browser Extensions
+# Web Browser Mods
 
 ## Extensions
 
