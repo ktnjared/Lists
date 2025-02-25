@@ -8,42 +8,43 @@
 
 Extensions that are used in my Profiles. This list is also maintained as a [Collection on AMO].
 
-| Extension                          | AMO Page                             |
-| ---------------------------------- | ------------------------------------ |
-| [1Password]                        | [AMO 1password-x-password-manager]   |
-| [Auto Mute Plus]                   | [AMO auto-mute-plus]                 |
-| Color Inverter                     | [AMO color-inverter-css]             |
-| [Containerise]                     | [AMO containerise]                   |
-| [Containers Helper]                | [AMO containers-helper]              |
-| [cookies.txt]                      | [AMO cookies-txt]                    |
-| [Enhancer for YouTube]             | [AMO enhancer-for-youtube]           |
-| [Image Max URL]                    | [AMO image-max-url]                  |
-| [Image Search Options]             | [AMO image-search-options]           |
-| JPEG XL Viewer                     | [AMO jxl]                            |
-| [LocalCDN]                         | [AMO localcdn-fork-of-decentraleyes] |
-| [Merge Windows]                    | [AMO merge-window]                   |
-| [Old Reddit Redirect]              | [AMO old-reddit-redirect]            |
-| [Progressive Web Apps for Firefox] | [AMO pwas-for-firefox]               |
-| [Reddit Enhancement Suite]         | [AMO reddit-enhancement-suite]       |
-| [Refined GitHub]                   | [AMO refined-github-]                |
-| [Save webP as PNG or JPEG]         | [AMO save-webp-as-png-or-jpeg]       |
-| [Something Awful Last Read Redux]  | [AMO salr-redux]                     |
-| [Sort Tabs]                        | [AMO sort-tabs-00]                   |
-| [StreetPass for Mastodon]          | [AMO streetpass-for-mastodon]        |
-| [Switch Container]                 | [AMO switch-container]               |
-| Tab Auto Refresh                   | [AMO tab-auto-refresh]               |
-| [Tampermonkey]                     | [AMO tampermonkey]                   |
-| [Tweaks for VSCO]                  | [AMO tweaks-for-vsco]                |
-| [uBlacklist]                       | [AMO ublacklist]                     |
-| [Velja]                            | [AMO velja]                          |
-| View Image Context Menu Item       | [AMO view-image-context-menu-item]   |
+| Extension                          | AMO Page                                                             |
+| ---------------------------------- | -------------------------------------------------------------------- |
+| [1Password]                        | [1password-x-password-manager][AMO 1password-x-password-manager]     |
+| [Auto Mute Plus]                   | [auto-mute-plus][AMO auto-mute-plus]                                 |
+| Color Inverter                     | [color-inverter-css][AMO color-inverter-css]                         |
+| [Containerise]                     | [containerise][AMO containerise]                                     |
+| [Containers Helper]                | [containers-helper][AMO containers-helper]                           |
+| [cookies.txt]                      | [cookies-txt][AMO cookies-txt]                                       |
+| [DeArrow]                          | [dearrow][AMO dearrow]                                               |
+| [Enhancer for YouTube]             | [enhancer-for-youtube][AMO enhancer-for-youtube]                     |
+| [Image Max URL]                    | [image-max-url][AMO image-max-url]                                   |
+| [Image Search Options]             | [image-search-options][AMO image-search-options]                     |
+| JPEG XL Viewer                     | [jxl][AMO jxl]                                                       |
+| [LocalCDN]                         | [localcdn-fork-of-decentraleyes][AMO localcdn-fork-of-decentraleyes] |
+| [Merge Windows]                    | [merge-window][AMO merge-window]                                     |
+| [Old Reddit Redirect]              | [old-reddit-redirect][AMO old-reddit-redirect]                       |
+| [Progressive Web Apps for Firefox] | [pwas-for-firefox][AMO pwas-for-firefox]                             |
+| [Reddit Enhancement Suite]         | [reddit-enhancement-suite][AMO reddit-enhancement-suite]             |
+| [Refined GitHub]                   | [refined-github-][AMO refined-github-]                               |
+| [Save webP as PNG or JPEG]         | [save-webp-as-png-or-jpeg][AMO save-webp-as-png-or-jpeg]             |
+| [Something Awful Last Read Redux]  | [salr-redux][AMO salr-redux]                                         |
+| [Sort Tabs]                        | [sort-tabs-00][AMO sort-tabs-00]                                     |
+| [StreetPass for Mastodon]          | [streetpass-for-mastodon][AMO streetpass-for-mastodon]               |
+| [Switch Container]                 | [switch-container][AMO switch-container]                             |
+| Tab Auto Refresh                   | [tab-auto-refresh][AMO tab-auto-refresh]                             |
+| [Tampermonkey]                     | [tampermonkey][AMO tampermonkey]                                     |
+| [Tweaks for VSCO]                  | [tweaks-for-vsco][AMO tweaks-for-vsco]                               |
+| [uBlacklist]                       | [ublacklist][AMO ublacklist]                                         |
+| [Velja]                            | [velja][AMO velja]                                                   |
+| View Image Context Menu Item       | [view-image-context-menu-item][AMO view-image-context-menu-item]     |
 
 #### Other Sources
 
 | Extension                         | Install                                                                                                                                                                                                  |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [StopTheMadness Pro] <sup>1</sup> | Open<br>`file:///Applications/StopTheMadness Pro.app/Contents/MacOS/StopTheMadness Firefox.app/Contents/Resources/install.html`<br>in Firefox, Firefox Developer Edition, or Firefox Nightly to install. |
-| [uBlock Origin]                   | [https://github.com/gorhill/uBlock]                                                                                                                                                                      |
+| [uBlock Origin]                   | [github.com/gorhill/uBlock][uBlock Origin GitHub]                                                                                                                                                        |
 
 <sup>1</sup>: StopTheMadness Pro is only available on Apple platforms (macOS, iOS, iPadOS, visionOS).
 
@@ -60,20 +61,20 @@ The following tables details which extensions are enabled for which Safari Profi
 
 #### App Store
 
-| Extension            | App Store    | Main | Bluesky | GitHub | Mastodon | Twitch | YouTube |
-| -------------------- | ------------ | ---- | ------- | ------ | -------- | ------ | ------- |
-| 1Password            | [1569813296] | x    | x       | x      | x        | x      | x       |
-| DeArrow for YouTube  | [6451469297] |      |         |        |          |        | x       |
-| Keyword Search       | [1558453954] | x    | x       | x      | x        | x      | x       |
-| Refined GitHub       | [1519867270] |      |         | x      |          |        |         |
-| StopTheMadness Pro   | [6471380298] | x    | x       | x      | x        | x      | x       |
-| Tampermonkey         | [6738342400] | x    | x       | x      | x        | x      | x       |
-| Velja <sup>2</sup>   | [1607635845] | x    | x       | x      | x        | x      | x       |
-| Wipr 2 "Blocklist 1" | [1662217862] | x    | x       | x      | x        | x      | x       |
-| Wipr 2 "Blocklist 2" | [1662217862] | x    | x       | x      | x        | x      | x       |
-| Wipr 2 "Blocklist 3" | [1662217862] | x    | x       | x      | x        | x      | x       |
-| Wipr 2 "Blocklist 4" | [1662217862] | x    | x       | x      | x        | x      | x       |
-| Wipr 2 "Wipr Extra"  | [1662217862] | x    | x       | x      | x        | x      | x       |
+| Extension              | App Store    | Main | Bluesky | GitHub | Mastodon | Twitch | YouTube |
+| ---------------------- | ------------ | ---- | ------- | ------ | -------- | ------ | ------- |
+| [1Password]            | [1569813296] | x    | x       | x      | x        | x      | x       |
+| [DeArrow for YouTube]  | [6451469297] |      |         |        |          |        | x       |
+| [Keyword Search]       | [1558453954] | x    | x       | x      | x        | x      | x       |
+| [Refined GitHub]       | [1519867270] |      |         | x      |          |        |         |
+| [StopTheMadness Pro]   | [6471380298] | x    | x       | x      | x        | x      | x       |
+| [Tampermonkey]         | [6738342400] | x    | x       | x      | x        | x      | x       |
+| [Velja] <sup>2</sup>   | [1607635845] | x    | x       | x      | x        | x      | x       |
+| [Wipr 2] "Blocklist 1" | [1662217862] | x    | x       | x      | x        | x      | x       |
+| [Wipr 2] "Blocklist 2" | [1662217862] | x    | x       | x      | x        | x      | x       |
+| [Wipr 2] "Blocklist 3" | [1662217862] | x    | x       | x      | x        | x      | x       |
+| [Wipr 2] "Blocklist 4" | [1662217862] | x    | x       | x      | x        | x      | x       |
+| [Wipr 2] "Wipr Extra"  | [1662217862] | x    | x       | x      | x        | x      | x       |
 
 <sup>2</sup>: "Velja" is included with [Velja] and cannot be removed.
 
@@ -81,7 +82,7 @@ The following tables details which extensions are enabled for which Safari Profi
 
 | Extension                      | Main | Bluesky | GitHub | Mastodon | Twitch | YouTube |
 | ------------------------------ | ---- | ------- | ------ | -------- | ------ | ------- |
-| Auto Reload                    |      |         |        |          | x      |         |
+| [Auto Reload]                  |      |         |        |          | x      |         |
 | Open in IINA <sup>3</sup>      |      |         |        |          |        |         |
 | Subscribe to Feed <sup>4</sup> |      |         |        |          |        |         |
 
@@ -151,44 +152,48 @@ et al.
 [6471380298]: https://apps.apple.com/us/app/stopthemadness-pro/id6471380298
 [6738342400]: https://apps.apple.com/us/app/tampermonkey/id6738342400
 [AMO 1password-x-password-manager]: https://addons.mozilla.org/firefox/addon/1password-x-password-manager/
-[AMO auto-mute-plus]: https://addons.mozilla.org/en-US/firefox/addon/auto-mute-plus/
-[Collection on AMO]: https://addons.mozilla.org/firefox/collections/13879288/Daily-Driver/?page=1&collection_sort=name
-[AMO color-inverter-css]: https://addons.mozilla.org/en-US/firefox/addon/color-inverter-css/
-[AMO containerise]: https://addons.mozilla.org/en-US/firefox/addon/containerise/
-[AMO containers-helper]: https://addons.mozilla.org/en-US/firefox/addon/containers-helper/
+[AMO auto-mute-plus]: https://addons.mozilla.org/firefox/addon/auto-mute-plus/
+[AMO color-inverter-css]: https://addons.mozilla.org/firefox/addon/color-inverter-css/
+[AMO containerise]: https://addons.mozilla.org/firefox/addon/containerise/
+[AMO containers-helper]: https://addons.mozilla.org/firefox/addon/containers-helper/
 [AMO cookies-txt]: https://addons.mozilla.org/firefox/addon/cookies-txt/
-[AMO enhancer-for-youtube]: https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/
+[AMO dearrow]: https://addons.mozilla.org/firefox/addon/dearrow/
+[AMO enhancer-for-youtube]: https://addons.mozilla.org/firefox/addon/enhancer-for-youtube/
 [AMO image-max-url]: https://addons.mozilla.org/firefox/addon/image-max-url/
-[AMO image-search-options]: https://addons.mozilla.org/en-US/firefox/addon/image-search-options/
-[AMO jxl]: https://addons.mozilla.org/en-US/firefox/addon/jxl/
-[AMO localcdn-fork-of-decentraleyes]: https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
-[AMO merge-window]: https://addons.mozilla.org/en-US/firefox/addon/merge-window/
-[AMO old-reddit-redirect]: https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/
-[AMO pwas-for-firefox]: https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/
-[AMO reddit-enhancement-suite]: https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/
-[AMO refined-github-]: https://addons.mozilla.org/en-US/firefox/addon/refined-github-/
-[AMO salr-redux]: https://addons.mozilla.org/en-US/firefox/addon/salr-redux/
-[AMO save-webp-as-png-or-jpeg]: https://addons.mozilla.org/en-US/firefox/addon/save-webp-as-png-or-jpeg/
+[AMO image-search-options]: https://addons.mozilla.org/firefox/addon/image-search-options/
+[AMO jxl]: https://addons.mozilla.org/firefox/addon/jxl/
+[AMO localcdn-fork-of-decentraleyes]: https://addons.mozilla.org/firefox/addon/localcdn-fork-of-decentraleyes/
+[AMO merge-window]: https://addons.mozilla.org/firefox/addon/merge-window/
+[AMO old-reddit-redirect]: https://addons.mozilla.org/firefox/addon/old-reddit-redirect/
+[AMO pwas-for-firefox]: https://addons.mozilla.org/firefox/addon/pwas-for-firefox/
+[AMO reddit-enhancement-suite]: https://addons.mozilla.org/firefox/addon/reddit-enhancement-suite/
+[AMO refined-github-]: https://addons.mozilla.org/firefox/addon/refined-github-/
+[AMO salr-redux]: https://addons.mozilla.org/firefox/addon/salr-redux/
+[AMO save-webp-as-png-or-jpeg]: https://addons.mozilla.org/firefox/addon/save-webp-as-png-or-jpeg/
 [AMO sort-tabs-00]: https://addons.mozilla.org/firefox/addon/sort-tabs-00/
-[AMO streetpass-for-mastodon]: https://addons.mozilla.org/en-US/firefox/addon/streetpass-for-mastodon/
-[AMO switch-container]: https://addons.mozilla.org/en-US/firefox/addon/switch-container/
-[AMO tab-auto-refresh]: https://addons.mozilla.org/en-US/firefox/addon/tab-auto-refresh/
-[AMO tampermonkey]: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-[AMO tweaks-for-vsco]: https://addons.mozilla.org/en-US/firefox/addon/tweaks-for-vsco/
-[AMO ublacklist]: https://addons.mozilla.org/en-US/firefox/addon/ublacklist/
-[AMO velja]: https://addons.mozilla.org/en-US/firefox/addon/velja/
-[AMO view-image-context-menu-item]: https://addons.mozilla.org/en-US/firefox/addon/view-image-context-menu-item/
+[AMO streetpass-for-mastodon]: https://addons.mozilla.org/firefox/addon/streetpass-for-mastodon/
+[AMO switch-container]: https://addons.mozilla.org/firefox/addon/switch-container/
+[AMO tab-auto-refresh]: https://addons.mozilla.org/firefox/addon/tab-auto-refresh/
+[AMO tampermonkey]: https://addons.mozilla.org/firefox/addon/tampermonkey/
+[AMO tweaks-for-vsco]: https://addons.mozilla.org/firefox/addon/tweaks-for-vsco/
+[AMO ublacklist]: https://addons.mozilla.org/firefox/addon/ublacklist/
+[AMO velja]: https://addons.mozilla.org/firefox/addon/velja/
+[AMO view-image-context-menu-item]: https://addons.mozilla.org/firefox/addon/view-image-context-menu-item/
 [Auto Mute Plus]:https://github.com/rogerskeie/autoMutePlus
+[Auto Reload]: https://github.com/garrettrayj/auto-reload
 [Bluesky Tanza3D Quick Block]: https://github.com/Tanza3D/bluesky-quick-block
+[Collection on AMO]: https://addons.mozilla.org/firefox/collections/13879288/Daily-Driver/?page=1&collection_sort=name
 [Containerise]: https://github.com/kintesh/containerise
 [Containers Helper]: https://codeberg.org/charles-m-knox/firefox-containers-helper
 [cookies.txt]: https://github.com/hrdl-github/cookies-txt
+[DeArrow for YouTube]: https://dearrow.ajay.app/
+[DeArrow]: https://dearrow.ajay.app/
 [Enhancer for YouTube]: https://www.mrfdev.com/enhancer-for-youtube
 [Greasyfork]: https://greasyfork.org/
-[https://github.com/gorhill/uBlock]: https://github.com/gorhill/uBlock
 [IINA]: https://iina.io/
 [Image Max URL]: https://github.com/qsniyg/maxurl
 [Image Search Options]: https://saucenao.com/tools/
+[Keyword Search]: http://safarikeywordsearch.aurlien.net/
 [LocalCDN]: https://codeberg.org/nobody/LocalCDN
 [Merge Windows]: https://github.com/jonathanKingston/merge-windows
 [NetNewsWire]: https://netnewswire.com/
@@ -207,5 +212,7 @@ et al.
 [Tampermonkey]: https://www.tampermonkey.net/index.php
 [Tweaks for VSCO]: https://inzk.dev/
 [uBlacklist]: https://github.com/iorate/ublacklist
+[uBlock Origin GitHub]: https://github.com/gorhill/uBlock
 [uBlock Origin]: [https://ublockorigin.com/]
 [Velja]: https://sindresorhus.com/velja
+[Wipr 2]: https://kaylees.site/wipr2.html
