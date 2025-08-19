@@ -21,7 +21,7 @@
 
 | Owned           | Year | Make,<br>Model, & Trim | Body          | Color                  | Engine                                                     | Trans                  | Notes                       |
 | --------------- | ---- | ---------------------- | ------------- | ---------------------- | ---------------------------------------------------------- | ---------------------- | --------------------------- |
-| 2016 -  current | 2016 | Hyundai<br>Tucson 1.6t | 5-door<br>SUV | ext: blue<br>int: grey | [Hyundai G4FJ][G4FJ]<br>1.6L I4 turbo<br>175 hp<br>264 N⋅m | 7-speed<br>dual-clutch | engine replacement @ 97k mi |
+| 2016 -  current | 2016 | Hyundai<br>[Tucson 1.6t] | 5-door<br>SUV | ext: blue<br>int: grey | [Hyundai G4FJ][G4FJ]<br>1.6L I4 turbo<br>175 hp<br>264 N⋅m | 7-speed<br>dual-clutch | engine replacement @ 97k mi |
 
 [1984camaro]: https://en.wikipedia.org/wiki/Chevrolet_Camaro_(third_generation)#1984
 [1986cutlass]: https://en.wikipedia.org/wiki/Oldsmobile_Cutlass_Ciera#1982%E2%80%931988
@@ -38,3 +38,4 @@
 [1NZ-FE]: https://en.wikipedia.org/wiki/Toyota_NZ_engine#1NZ-FE
 [G4FD]: https://en.wikipedia.org/wiki/Hyundai_Gamma_engine#G4FD
 [G4FJ]: https://en.wikipedia.org/wiki/Hyundai_Gamma_engine#G4FJ
+[Tucson 1.6t]: https://en.wikipedia.org/wiki/Hyundai_Tucson#Third_generation_(TL;_2015)
