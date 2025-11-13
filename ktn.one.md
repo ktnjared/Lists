@@ -1,5 +1,7 @@
 # ktn.one
 
+Record of current, past, and future hostnames of devices that are part of the network.
+
 ## Jared
 
 ### Daily Use
@@ -169,4 +171,5 @@ I've also toyed with AI-related or android/gynoid characters to have some humor 
 | `janice` (Robotech)                                            | `sharon` (マクロスプラス, Macross Plus)                        |
 | `lime` (セイバーマリオネット, Saber Marionette)                | `vicki` (Small Wonder)                                         |
 | `marine` (セイバーマリオネット, Saber Marionette)              |
+
 
